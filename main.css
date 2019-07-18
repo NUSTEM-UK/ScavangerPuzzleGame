@@ -1,0 +1,39 @@
+/********************/
+
+
+/*Reset All Elements*/
+
+
+/********************/
+
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    outline: 0px;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+    font-family: 'Lato', sans-serif;
+    font-size: 0;
+}
+
+span {
+    width: 1010px;
+    height: 202px;
+    display: block;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    border: 1px solid black;
+}
+
+main {
+    width: 1010px;
+    height: 1010px;
+    border: 2px solid black;
+    margin: 20px auto;
+}
