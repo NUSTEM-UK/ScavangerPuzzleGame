@@ -29,7 +29,7 @@ $("div").click(function(event) {
     var finished = checkFinish();
 
     if (checkFinish()) {
-        alert("teams.begun.funded - untie a human knot (room 108 for now, above the door)");
+        alert("senior.books.happen - How many different types of plants can you spot before the next location?");
     }
 });
 
