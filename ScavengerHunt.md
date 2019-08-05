@@ -11,6 +11,12 @@
 
 
 
+## Rules
+
+- Just the one, don't take the clues with you, use a picture instead.
+
+
+
 ### Location 1 - Clues:
 
 Clues based off of pictures
